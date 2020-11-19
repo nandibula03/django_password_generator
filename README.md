@@ -1,1 +1,1 @@
-# django_password_generator
+# password_generator using Django
